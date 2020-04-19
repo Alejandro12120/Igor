@@ -1,0 +1,10 @@
+{
+  "currentFortniteVersionNumber": "11.2",
+  "totalPakCount": 20,
+  "currentFortniteVersion": "++Fortnite+Release-11.20-CL-10328358-Windows",
+  "encryptedPakFileCount": 2,
+  "aesKey": "0x046f57d5b63972e6298fb5d89e72d7bbbd6826676c081f3546b8e2e403a672e7",
+  "additionalKeys": {
+    "pakchunk1000-WindowsClient.pak": "0x06FC3A87818A38B8C2FF01601D0B222DE3DB05986D3E2361B6BE6478306C7BBD"
+  }
+}
