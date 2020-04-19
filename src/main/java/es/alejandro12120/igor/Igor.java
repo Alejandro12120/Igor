@@ -62,7 +62,7 @@ public class Igor {
 	public static void main(String[] args) {
 		instance = new Igor();
 		try {
-			jda = new JDABuilder(AccountType.BOT).setToken("NjEzMDExMTkyOTk4NTI2OTg2.XVqt3g.mWgC09aAusTnuC8ymNu2RTTKpN0").build();
+			jda = new JDABuilder(AccountType.BOT).setToken("TOKEN").build();
 		} catch (LoginException e) {
 			System.out.println("ERROR LOGGING WITH TOKEN");
 			return;
